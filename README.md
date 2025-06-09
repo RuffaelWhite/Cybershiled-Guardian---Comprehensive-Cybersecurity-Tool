@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cybershiled Guardian
 
 Cybershiled Guardian is a full-stack cybersecurity tool with multiple features including vulnerability scanning, password strength checking, security news feed, and firewall rules viewer.
@@ -80,3 +81,7 @@ Replace `yourusername` with your GitHub username.
 - Firewall rules viewer
 
 Contributions and suggestions are welcome!
+=======
+# Cybershiled-Guardian---Comprehensive-Cybersecurity-Tool
+Cybershiled Guardian is a full-stack cybersecurity tool featuring a password strength checker, vulnerability scanning, security news feed, and firewall rules viewer. Built with Node.js, Express, and React, it provides essential cybersecurity utilities in an easy-to-use web application.
+>>>>>>> be5089032452d6f8e26fd9b307e4f73980c6f0dd
